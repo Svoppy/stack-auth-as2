@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:stack-auth.com)",
+      "WebFetch(domain:docs.stack-auth.com)"
+    ]
+  }
+}
