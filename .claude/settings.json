@@ -3,7 +3,8 @@
     "allow": [
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:stack-auth.com)",
-      "WebFetch(domain:docs.stack-auth.com)"
+      "WebFetch(domain:docs.stack-auth.com)",
+      "Bash(pandoc /Users/diaskazikhanov/Desktop/aitu/isscv/pw1/Практическая_работа_1_Stack_Auth-2.docx -o /Users/diaskazikhanov/Desktop/aitu/isscv/pw1/pw1_report_extracted.md --from docx --to markdown)"
     ]
   }
 }
